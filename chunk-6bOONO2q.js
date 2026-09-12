@@ -1,0 +1,1 @@
+var n=[{path:``,loadComponent:()=>import(`./chunk-D9YDgsps.js`).then(e=>e.OnboardingComponent)}];export{n as routes};

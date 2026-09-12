@@ -1,0 +1,1 @@
+import{An as ie}from"./chunk-FKuFcVqM.js";import{r as j}from"./chunk-wpd0ZvnA.js";var i=(()=>{class t extends j{constructor(){super({name:`companyjobcontract`})}static{this.ɵfac=function(e){return new(e||t)}}static{this.ɵprov=ie({token:t,factory:t.ɵfac,providedIn:`root`})}}return t})();export{i as t};
