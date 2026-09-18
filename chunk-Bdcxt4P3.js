@@ -1,0 +1,1 @@
+var o=[{path:``,loadComponent:()=>import(`./chunk-o-PMl-6W2.js`).then(e=>e.ProfileComponent)}];export{o as routes};

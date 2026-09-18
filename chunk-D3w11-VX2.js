@@ -1,0 +1,1 @@
+import{Jn as ng,u as BD}from"./chunk-FKuFcVqM.js";import{l as Kr}from"./chunk-Dv52rT_E.js";var c=(()=>{class e{static{this.ɵfac=function(t){return new(t||e)}}static{this.ɵcmp=BD({type:e,selectors:[[`app-guest`]],decls:1,vars:0,template:function(t,r){t&1&&ng(0,`router-outlet`)},dependencies:[Kr],encapsulation:2})}}return e})();export{c as GuestComponent};

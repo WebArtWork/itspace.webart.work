@@ -1,0 +1,1 @@
+import{a as v}from"./chunk-Ch7qlBDL.js";var f=v((t,e)=>{(function(){ace.require([`ace/mode/text`],function(o){typeof e==`object`&&typeof t==`object`&&e&&(e.exports=o)})})()});var chunk_RSEZRRMV_default=f();export{chunk_RSEZRRMV_default as default};

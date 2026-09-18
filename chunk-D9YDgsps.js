@@ -1,0 +1,1 @@
+import{u as BD}from"./chunk-FKuFcVqM.js";var a=(()=>{class e{static{this.ɵfac=function(t){return new(t||e)}}static{this.ɵcmp=BD({type:e,selectors:[[`ng-component`]],decls:0,vars:0,template:function(t,i){},encapsulation:2})}}return e})();export{a as OnboardingComponent};
